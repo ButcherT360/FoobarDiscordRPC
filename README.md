@@ -63,7 +63,7 @@ Dependencies include:
 
 ## Credits
 
-Developed by Tomi Hamm.
+Developed by ButcherT & ChatGPT.
 
 This project was developed with assistance from ChatGPT for C++ implementation, API integration and debugging.
 
